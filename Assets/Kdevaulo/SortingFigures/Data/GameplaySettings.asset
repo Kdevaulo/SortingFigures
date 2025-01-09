@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfcc3c90140041af95e0c3af4e215af7, type: 3}
+  m_Name: GameplaySettings
+  m_EditorClassIdentifier: 
+  <ShuffleGlobalDelay>k__BackingField: 1
+  <ShuffleMovementDuration>k__BackingField: 2
+  <ShuffleDelayRange>k__BackingField: {x: 0, y: 1.5}
+  <ShadowFadeDuration>k__BackingField: 0.5
+  <ScaleDuration>k__BackingField: 0.1
+  <FollowMovementDuration>k__BackingField: 0.3
+  <ScalePercentage>k__BackingField: 0.01
+  <MaxDistanceToSwap>k__BackingField: 1
+  <CorrectActionMoveDuration>k__BackingField: 0.5
+  <WrongActionMoveDuration>k__BackingField: 0.5
+  <WrongActionRotateDuration>k__BackingField: 0.5
+  <WrongActionRotations>k__BackingField:
+  - {x: 0, y: 0, z: -15}
+  - {x: 0, y: 0, z: 15}
+  - {x: 0, y: 0, z: 0}
