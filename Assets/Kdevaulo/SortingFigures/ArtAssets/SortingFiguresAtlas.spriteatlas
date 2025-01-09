@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SortingFiguresAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9f2add4bffdcf0341bf229c447678ca0, type: 3}
+    - {fileID: 2800000, guid: 6f5f8e7d1727a4c459024c09b93e0418, type: 3}
+    - {fileID: 2800000, guid: 80189846e933dd443936fbc6deae9769, type: 3}
+    - {fileID: 2800000, guid: 9099426b1a2c1de408d88667fee43564, type: 3}
+    - {fileID: 2800000, guid: 428fbc3c8c58b2b459a7516599da8aed, type: 3}
+    - {fileID: 2800000, guid: 303f4ab19d97d4944a913c11240f1940, type: 3}
+    - {fileID: 2800000, guid: d11ed3145aa2f26438d974fba54f5d5a, type: 3}
+    - {fileID: 2800000, guid: 275a796d984237a44bb22c8035c43d39, type: 3}
+    - {fileID: 2800000, guid: 9371ba5b2374e2d4d96ffd791af2a0cd, type: 3}
+    - {fileID: 2800000, guid: 0d12ee55739b09c4ea89426ee086dab9, type: 3}
+    - {fileID: 2800000, guid: 35a3b09c2fc1c9543a921710fe578dd6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 303f4ab19d97d4944a913c11240f1940: 21300000
+    - d11ed3145aa2f26438d974fba54f5d5a: 21300000
+    - 0d12ee55739b09c4ea89426ee086dab9: 21300000
+    - 80189846e933dd443936fbc6deae9769: 21300000
+    - 9f2add4bffdcf0341bf229c447678ca0: 21300000
+    - 9371ba5b2374e2d4d96ffd791af2a0cd: 21300000
+    - 9099426b1a2c1de408d88667fee43564: 21300000
+    - 428fbc3c8c58b2b459a7516599da8aed: 21300000
+    - 35a3b09c2fc1c9543a921710fe578dd6: 21300000
+    - 275a796d984237a44bb22c8035c43d39: 21300000
+    - 6f5f8e7d1727a4c459024c09b93e0418: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 303f4ab19d97d4944a913c11240f1940, type: 3}
+  - {fileID: 21300000, guid: d11ed3145aa2f26438d974fba54f5d5a, type: 3}
+  - {fileID: 21300000, guid: 0d12ee55739b09c4ea89426ee086dab9, type: 3}
+  - {fileID: 21300000, guid: 80189846e933dd443936fbc6deae9769, type: 3}
+  - {fileID: 21300000, guid: 9f2add4bffdcf0341bf229c447678ca0, type: 3}
+  - {fileID: 21300000, guid: 9371ba5b2374e2d4d96ffd791af2a0cd, type: 3}
+  - {fileID: 21300000, guid: 9099426b1a2c1de408d88667fee43564, type: 3}
+  - {fileID: 21300000, guid: 428fbc3c8c58b2b459a7516599da8aed, type: 3}
+  - {fileID: 21300000, guid: 35a3b09c2fc1c9543a921710fe578dd6, type: 3}
+  - {fileID: 21300000, guid: 275a796d984237a44bb22c8035c43d39, type: 3}
+  - {fileID: 21300000, guid: 6f5f8e7d1727a4c459024c09b93e0418, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Pentagon
+  - Pentagon Shadow
+  - Square Shadow
+  - Circle Shadow
+  - Background
+  - Square
+  - Cloud
+  - GreenIsland
+  - YellowIsland
+  - PurpleIsland
+  - Circle
+  m_RenderDataMap: {}
+  m_Tag: SortingFiguresAtlas
+  m_IsVariant: 0
